@@ -4,5 +4,4 @@ This website is done using
 * CSS
 * Javascript
 * Tailwind CSS
-
-# webpage https://prasannapro.github.io/htmlproject/
+ https://prasannapro.github.io/htmlproject/
