@@ -1,6 +1,4 @@
 # Portfolio project
-
-
 This website is done using 
 * Html
 * CSS
